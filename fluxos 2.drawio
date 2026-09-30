@@ -1,0 +1,39 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="XAarGY0hQThfiCCHOXUI">
+    <mxGraphModel dx="1414" dy="811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="oga0Y-91-qvYF8q-jl9k-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="fim" vertex="1">
+          <mxGeometry height="80" width="144" x="342" y="545" as="geometry" />
+        </mxCell>
+        <mxCell id="oga0Y-91-qvYF8q-jl9k-12" edge="1" parent="1" source="oga0Y-91-qvYF8q-jl9k-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oga0Y-91-qvYF8q-jl9k-2" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="escrevervlitros_aoa_100" vertex="1">
+          <mxGeometry height="70" width="170" x="329" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="oga0Y-91-qvYF8q-jl9k-10" edge="1" parent="1" source="oga0Y-91-qvYF8q-jl9k-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="oga0Y-91-qvYF8q-jl9k-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oga0Y-91-qvYF8q-jl9k-4" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="ler kmi,kmf,litros" vertex="1">
+          <mxGeometry height="70" width="136" x="346" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="oga0Y-91-qvYF8q-jl9k-6" edge="1" parent="1" source="oga0Y-91-qvYF8q-jl9k-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="oga0Y-91-qvYF8q-jl9k-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oga0Y-91-qvYF8q-jl9k-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="inicio" vertex="1">
+          <mxGeometry height="80" width="144" x="342" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oga0Y-91-qvYF8q-jl9k-11" edge="1" parent="1" source="oga0Y-91-qvYF8q-jl9k-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="oga0Y-91-qvYF8q-jl9k-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oga0Y-91-qvYF8q-jl9k-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="litros_aos_100=litros*100&lt;div&gt;(kmf-kmi)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="136" x="346" y="290" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
